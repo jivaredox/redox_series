@@ -1,3 +1,3 @@
 def league_ver()
-  return '7.24'
+  return '8.2'
 end
